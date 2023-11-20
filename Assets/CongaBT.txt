@@ -1,0 +1,11 @@
+tree("Root")
+	fallback
+		sequence
+			bateriaBaja
+			irADestino
+			llegarDestino
+			bateriaCargada
+		sequence
+			destinoRandom
+			irADestino
+			llegaADestino
