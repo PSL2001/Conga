@@ -6,6 +6,15 @@ tree("Root")
 			llegarDestino
 			bateriaCargada
 		sequence
+			BasuraLlena
+			irADestino
+			llegarDestino
+			BasuraDescargada
+		sequence
+			basuraEncontrada
+			irADestino
+			llegarDestino
+		sequence
 			destinoRandom
 			irADestino
-			llegaADestino
+			llegarDestino
